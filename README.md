@@ -1,3 +1,3 @@
 # promo284
 
-Test de modif en binômme
+Test de modif en Trinome
